@@ -1,16 +1,8 @@
 # roll_of_the_dice
+A dice roll simulator. A project to try out more Flutter.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+This application generates a number based off the type of dice picked by the user to simulate a dice roll.\
+User can currently pick either a 6-sided dice, a 12-sided dice, or a 20-sided dice.\
+Could be used for game play, statistics, etc.\
+Will try to add animation for dice next.\
